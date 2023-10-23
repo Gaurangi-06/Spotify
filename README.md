@@ -12,3 +12,7 @@ Discovering what specifically makes songs popular will aid upcoming artists in s
 
 ## Data Source:
 ![image](https://github.com/Gaurangi-06/Spotify/assets/144287879/9e1860a9-495c-4e0a-a71f-f9372cb15bd6)
+
+## Flow Cgaart of the Project
+We can start to drill down further by things such as artist and genre.
+![image](https://github.com/Gaurangi-06/Spotify/assets/144287879/cd10452b-7062-4682-bc5a-69d7189b854d)
